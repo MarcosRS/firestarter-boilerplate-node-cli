@@ -9,7 +9,7 @@
     "node": ">=8"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node bin/outside",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
